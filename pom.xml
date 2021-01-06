@@ -12,7 +12,7 @@
 	<groupId>com.algaworks.algamoney-api1</groupId>
 	<artifactId>curso.api.rest</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>algamoney-api-1</name>
 	<description>Curso API REST Spring Boot</description>
 
